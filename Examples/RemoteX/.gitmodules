@@ -1,0 +1,10 @@
+[submodule "AzureSphereDrivers"]
+	path = AzureSphereDrivers
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDrivers.git
+
+[submodule "AzureSphereRemoteX.Client"]
+	path = AzureSphereRemoteX.Client
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereRemoteX.Client.git
+[submodule "HardwareDefinitions"]
+	path = HardwareDefinitions
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git

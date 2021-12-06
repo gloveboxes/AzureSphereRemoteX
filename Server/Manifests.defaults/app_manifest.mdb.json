@@ -1,0 +1,36 @@
+{
+  "SchemaVersion": 1,
+  "Name": "AzureSphereRemoteX_Server",
+  "ComponentId": "283b16c8-d6a2-4d56-8abb-f390b0d3dda9",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [
+      "$STATUS_LED",
+      "$PIN3_GPIO6"
+    ],
+    "I2cMaster": [
+      "$I2C_MASTER"
+    ],
+    "SpiMaster": [
+      "$SPI_MASTER"
+    ],
+    "Pwm": [
+      "$PWM"
+    ],
+    "Adc": [
+      "$ADC"
+    ],
+    "AllowedTcpServerPorts": [
+      8888
+    ],
+    "NetworkConfig": true,
+    "PowerControls": [
+      "SetPowerProfile"
+    ],
+    "MutableStorage": {
+      "SizeKB": 64
+    }
+  },
+  "ApplicationType": "Default"
+}

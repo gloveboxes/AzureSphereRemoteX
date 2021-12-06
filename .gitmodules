@@ -1,0 +1,24 @@
+[submodule "Server/AzureSphereDevX"]
+	path = Server/AzureSphereDevX
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.git
+[submodule "Server/tools"]
+	path = Server/tools
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.Tools.git
+[submodule "Server/HardwareDefinitions"]
+	path = Server/HardwareDefinitions
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git
+[submodule "Examples/RemoteX/HardwareDefinitions"]
+	path = Examples/RemoteX/HardwareDefinitions
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git
+[submodule "Examples/RemoteX/AzureSphereDrivers"]
+	path = Examples/RemoteX/AzureSphereDrivers
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDrivers.git
+[submodule "Examples/DesktopDevX/DesktopDevX"]
+	path = Examples/DesktopDevX/DesktopDevX
+	url = https://github.com/Azure-Sphere-DevX/DesktopDevX.git
+[submodule "Examples/DesktopDevX/HardwareDefinitions"]
+	path = Examples/DesktopDevX/HardwareDefinitions
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git
+[submodule "Examples/DesktopDevX/AzureSphereDrivers"]
+	path = Examples/DesktopDevX/AzureSphereDrivers
+	url = https://github.com/Azure-Sphere-DevX/AzureSphereDrivers.git
